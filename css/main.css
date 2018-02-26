@@ -1,0 +1,84 @@
+.happy-cat-body {
+	background-color: #FCFCFC;
+	padding: 4rem 0 4rem;
+}
+
+.et-title-heading h2 {
+	font-size: 3em!important;
+    margin: 1rem auto!important;
+    color: #3DC4E4;
+    text-align: center;
+}
+.grow {
+	transition: all .2s ease-in-out;
+}
+.grow:hover
+{
+	transform: scale(1.2);
+	color: inherit;
+}
+
+.happy-cat-body .card {
+	border: none;
+	padding: 0;
+	box-shadow: 0 0 6px 0 rgba(156,143,143,0.50);
+	margin: 2em auto;
+
+}
+
+.et-card-header {
+	background-color: #87E8FF!important;
+	padding: .75rem 1.75rem!important;
+}
+
+.happy-cat-body a .et-card-header h4 {
+	color: #656565!important;
+	font-weight: 300;
+}
+
+.et-card-header:hover {
+	background-color: #61E1FF!important;
+}
+
+.happy-cat-body a:hover {
+	text-decoration: none;
+}
+
+.happy-cat-body a:focus {
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+.et-card-title {
+	margin: 0;
+}
+
+.et-card-body {
+	padding: 1.5rem 1.75rem!important;
+}
+
+.happy-cat-body .widefat {
+	border-radius: 4px;
+}
+
+.et-button-submit {
+	text-align: center;
+}
+
+.et-button-submit .button {
+	color: #4a4a4a;
+	background-color: #87E8FF;
+	border: none;
+	text-shadow: none;
+	box-shadow: 0 0 3px 0 rgba(156,143,143,0.50);
+}
+
+.et-bottom-credit a {
+	color: #797979;
+	text-align: center;
+
+}
+
+.et-bottom-credit a:hover {
+	color: #797979;
+}
